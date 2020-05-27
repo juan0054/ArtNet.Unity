@@ -38,3 +38,13 @@ An ArtNet library for C# and VB.Net developers. Based on the [Architecture for C
 
 * C# Console app
 * VB.Net Console app
+
+https://www.reddit.com/r/Unity3D/comments/b1nwzz/simulated_volumetric_club_lighting_with_realtime/
+
+
+
+
+Trent Robertson
+
+I modeled a night club I used to frequent as a sketchpad for lighting simulations. The popular LED matrix animation software Jinx (left) streams pixel data via ArtNet to Unity (right)
+https://www.youtube.com/watch?v=V-Ffo7ybThU
